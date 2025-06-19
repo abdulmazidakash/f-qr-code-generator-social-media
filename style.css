@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+}
+
+#input-url{
+	padding: 10px 40px;
+	font-size: medium;
+	border-radius: 10px;
+	font-weight: 600;
+}
+.btn{
+	background-color: darkorange;
+	padding: 10px 40px;
+	font-size: medium;
+	font-style: italic;
+	border-radius: 10px;
+	color: white;
+	font-weight: 600;
+}
+#qr-code-container{
+	width: 200px;
+	margin: auto;
+	padding: 40px;
+}
